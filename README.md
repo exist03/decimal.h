@@ -8,7 +8,7 @@ C library implemintation
 C Library for working with large numbers. With Unit tests.
 
 ## Build
-      $ git clone https://github.com/exist03/decimal.h
+      $ git clone https://github.com/exist03/decimal.h.git
       $ cd decimal.h
       $ make
 
